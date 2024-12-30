@@ -1,0 +1,12 @@
+{
+    "id": "plisio/plisiopayment",
+    "name": "Plisio Payment Gateway",
+    "namespace": "Plisio\\PlisioPayment\\",
+    "provider": "Plisio\\PlisioPayment\\Providers\\PlisioServiceProvider",
+    "author": "Plisio",
+    "url": "https://plisio.net",
+    "version": "1.0.0",
+    "description": "Plisio payment gateway integration",
+    "minimum_core_version": "7.0.0",
+    "require": ["botble/payment"]
+}
